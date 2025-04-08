@@ -27,7 +27,7 @@ _(Add your app screenshots here to give users a visual idea)_
 ## Clone the repository:
 
 - ```bash
-
+   flutter pub get
   ```
 - **git clone https://github.com/Hassanaawan/Flutter-chat.git**
 - cd Flutter-chat
